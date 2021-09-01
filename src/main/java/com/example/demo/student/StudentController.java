@@ -16,6 +16,5 @@ public class StudentController {
                 new Student(1L, "Jamie", "jamie.tolv@utb.ecutbilding.se", Gender.MALE),
                 new Student(2L, "amanda", "amandatol@gmail.com", Gender.FEMALE)
         );
-
         return students;
 }};
